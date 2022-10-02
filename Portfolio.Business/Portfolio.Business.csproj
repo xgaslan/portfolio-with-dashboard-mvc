@@ -19,4 +19,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Portfolio.DataAccess\Portfolio.DataAccess.csproj" />
+    <ProjectReference Include="..\Portfolio.Entity\Portfolio.Entity.csproj" />
+  </ItemGroup>
+
 </Project>

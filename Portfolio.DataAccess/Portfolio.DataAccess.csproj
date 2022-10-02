@@ -23,4 +23,8 @@
     <Folder Include="Concrete\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Portfolio.Entity\Portfolio.Entity.csproj" />
+  </ItemGroup>
+
 </Project>

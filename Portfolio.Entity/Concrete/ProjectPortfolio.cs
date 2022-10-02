@@ -2,7 +2,7 @@
 
 namespace Portfolio.Entity.Concrete;
 
-public class Portfolio
+public class ProjectPortfolio
 {
     [Key]
     public int Id { get; set; }
